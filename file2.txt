@@ -1,1 +1,2 @@
 This is line1 from master of file 2 
+Line 2 got modified form master
