@@ -1,2 +1,2 @@
 This is line1 from master of file 2 
-Modified line2 from feature2
+Modified line2 from master
